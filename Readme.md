@@ -1,5 +1,3 @@
 Curso de Git e Github
 
-Arquivo da aula do curso de Git e Github
-
-curso
+Repositório teste para mostrar como o Git e o Github funcionam
